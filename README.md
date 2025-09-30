@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Hamza Abid!
+[![Open to Work](https://img.shields.io/badge/-%E2%9C%A8%20Open%20to%20Work-10b981?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/hamza-abid1/)
 
 ### A passionate Full-Stack Engineer specializing in Java, Spring Boot, and modern web/mobile technologies.
 
@@ -62,7 +63,7 @@ I am a recent graduate from EMSI (École Marocaine des Sciences de l'Ingénieur)
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaabidabid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="hamzaabidabid's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaabidabid&show_icons=true&theme=dracula&count_private=true" alt="hamzaabidabid's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaabidabid&layout=compact&langs_count=8&theme=dracula" alt="Top Langs" />
 </p>
