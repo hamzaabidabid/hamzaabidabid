@@ -92,8 +92,9 @@ As a Computer Science and Networks Engineer from EMSI, I am passionate about tra
 ---
 
 ## 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaabidabid&show_icons=true&theme=dracula&count_private=true" alt="hamzaabidabid's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaabidabid&show_icons=true&theme=dracula&count_private=true&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Hamza Abid's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaabidabid&layout=compact&langs_count=8&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaabidabid&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
