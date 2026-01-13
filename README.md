@@ -1,14 +1,17 @@
-# Hamza Abid | Ingénieur Full-Stack (Java/Spring & JavaScript Ecosystems)
+# Hamza Abid | Full-Stack Engineer (Java/Spring & JavaScript Ecosystems)
 
-[![Open to Work](https://img.shields.io/badge/-%E2%9C%A8%20Disponible%20pour%20une%20opportunité-10b981?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/hamza-abid1/)
+[![Open to Work](https://img.shields.io/badge/-%E2%9C%A8%20Open%20to%20Work-10b981?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/hamza-abid1/)
 
 <p align="left">
   <a href="https://linkedin.com/in/hamza-abid1" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
-  <a href="https://hamzaabid11.github.io/Portfolio" target="blank"><img src="https://img.shields.io/badge/Portfolio_Web-754EF9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://hamzaabid11.github.io/Portfolio" target="blank"><img src="https://img.shields.io/badge/Web_Portfolio-754EF9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:hamza.abid4323@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
 </p>
 
 ---
+
+<details>
+<summary>🇫🇷 Cliquez ici pour la version française</summary>
 
 ### À propos de moi
 
@@ -18,11 +21,28 @@ Ingénieur en Informatique et Réseaux diplômé de l'EMSI, je suis passionné p
 
 -   🚀 **Compétences Clés :** Conception d'architectures microservices, développement d'API RESTful, intégration de pipelines CI/CD et déploiement avec Docker & Kubernetes.
 
--   📄 Consultez mon **[CV complet](https://hamzaabid11.github.io/Portfolio/assets/JVC_HAMZAA7.pdf)** pour un aperçu détaillé de mon parcours. *(Assurez-vous que le lien est correct)*
+-   📄 Consultez mon **[CV complet](https://hamzaabid11.github.io/Portfolio/assets/JVC_HAMZAA7.pdf)** pour un aperçu détaillé de mon parcours.
+
+</details>
+
+<details open>
+<summary>🇬🇧 Click here for the English version</summary>
+
+### About Me
+
+As a Computer Science and Networks Engineer from EMSI, I am passionate about transforming complex ideas into robust and high-performance software solutions. With strong expertise in **Java/Spring Boot** for the backend and proficiency in the **Angular, React, and Flutter** ecosystems for frontend and mobile, I design comprehensive, secure, and scalable applications.
+
+-   🎯 **What I'm Looking For:** A position as a **Full-Stack Software Engineer (Java/JEE, Angular/React)** where I can contribute to innovative projects, solve technical challenges, and continue to grow my skills within a dynamic team.
+
+-   🚀 **Key Skills:** Designing microservices architectures, developing RESTful APIs, integrating CI/CD pipelines, and deploying with Docker & Kubernetes.
+
+-   📄 Check out my **[full resume](https://hamzaabid11.github.io/Portfolio/assets/JVC_HAMZAA7.pdf)** for a detailed overview of my background.
+
+</details>
 
 ---
 
-## 🛠️ Ma Stack Technique
+## 🛠️ My Tech Stack
 
 <table>
   <tr>
@@ -48,7 +68,7 @@ Ingénieur en Informatique et Réseaux diplômé de l'EMSI, je suis passionné p
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>Bases de Données</h4>
+      <h4>Databases</h4>
       <p align="left">
         <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
         <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
@@ -57,7 +77,7 @@ Ingénieur en Informatique et Réseaux diplômé de l'EMSI, je suis passionné p
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>DevOps & Outils</h4>
+      <h4>DevOps & Tools</h4>
       <p align="left">
         <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
         <a href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
@@ -71,10 +91,10 @@ Ingénieur en Informatique et Réseaux diplômé de l'EMSI, je suis passionné p
 
 ---
 
-## 📊 Mes Statistiques GitHub
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaabidabid&show_icons=true&theme=dracula&count_private=true&hide_border=true&rank_icon=github" alt="Statistiques GitHub de Hamza Abid" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaabidabid&show_icons=true&theme=dracula&count_private=true&hide_border=true&rank_icon=github" alt="Hamza Abid's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaabidabid&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaabidabid&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
